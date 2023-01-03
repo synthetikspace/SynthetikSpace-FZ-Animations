@@ -11,4 +11,13 @@ Frame rate: 7
 Duration: 3600
 Active cooldown: 0
 
-Bubble slots: 0
+Bubble slots: 1
+
+Slot: 0
+X: 65
+Y: 25
+Text: I'm Han Solo!
+AlignH: Left
+AlignV: Bottom
+StartFrame: 8
+EndFrame: 15
