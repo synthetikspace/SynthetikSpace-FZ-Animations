@@ -4,30 +4,40 @@ Here are some animations made by me. Open to requests. Enjoy and please credit i
 
 # [2049]
 ![2049](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/2049.png)
+## Animated scene from the film Blade Runner : 2049.
 
 # [Anonomask]
 ![Anonomask](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Anonomask.png)
+## 3D animation of a Fawkes mask.
 
 # [Atari]
 ![Atari](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Atari.png)
+## Short animation of the 80's Atari logo.
 
 # [Galaga]
 ![Galaga](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Galaga.png)
+## 3D animation inspired by the classic video game Galaga.
 
 # [Gridloop]
 ![Gridloop](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Gridloop.png)
+## 3D animation of a wireframe grid.
 
 # [Hacktheplanet]
 ![Hacktheplanet](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Hacktheplanet.png)
+## 'Hack the planet!' scene from the movie Hackers.
 
 # [Lifehacker]
 ![Lifehacker](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Lifehacker.png)
+## Stick figure animation of the perpetual 'Lifehacker'.
 
 # [Noodles.png]
 ![Noodles.png](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Noodles.png)
+## "I'm Han Solo". Scene from the movie Blade Runner.
 
 # [Targetlocked]
 ![Targetlocked](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Targetlocked.png)
+## My first attempt at making Flipper-Zero animations. Not the best. Not the worst.
 
 # [Trustme]
 ![Trustme](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Trustme.png)
+## Funny stickman animation of two figures 'helping' each other out.
