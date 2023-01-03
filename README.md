@@ -30,7 +30,7 @@ Here are some animations made by me. Open to requests. Enjoy and please credit i
 ![Lifehacker](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Lifehacker.png)
 ## Stick figure animation of the perpetual 'Lifehacker'.
 
-# [Noodles.png]
+# [Noodles]
 ![Noodles.png](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Noodles.png)
 ## "I'm Han Solo". Scene from the movie Blade Runner.
 
