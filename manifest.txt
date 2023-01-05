@@ -126,3 +126,10 @@ Max butthurt: 10
 Min level: 1
 Max level: 3
 Weight: 8
+
+Name: ElAzor
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 8
