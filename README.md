@@ -6,6 +6,10 @@ Here are some animations made by me. Open to requests. Enjoy and please credit i
 ![2049](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/2049.png)
 ## Animated scene from the film Blade Runner : 2049.
 
+# [Android]
+![Android](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Android.png)
+## Mattis dovier noir animation.
+
 # [Anonomask]
 ![Anonomask](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Anonomask.png)
 ## 3D animation of a Fawkes mask.
@@ -81,6 +85,10 @@ Here are some animations made by me. Open to requests. Enjoy and please credit i
 # [Targetlocked]
 ![Targetlocked](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Targetlocked.png)
 ## My first attempt at making Flipper-Zero animations. Not the best. Not the worst.
+
+# [Trooper]
+![Trooper](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Trooper.png)
+## Nothing to see here.
 
 # [Trustme]
 ![Trustme](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Trustme.png)
