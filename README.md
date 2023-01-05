@@ -22,6 +22,10 @@ Here are some animations made by me. Open to requests. Enjoy and please credit i
 ![DominoMF](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/DominoMF.png)
 ## Dominoes falling forever!
 
+# [El Azor]
+![ElAzor](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/ElAzor.png)
+## Short animation of gameplay from the indie game El Azor. https://gamejolt.com/games/azor/332788
+
 # [FlyingTurd]
 ![Flyingturd](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Flyingturd.png)
 ## Rob Delaney as “Peter” from Deadpool 2, in ASCII GIF form.
