@@ -22,6 +22,10 @@ Here are some animations made by me. Open to requests. Enjoy and please credit i
 ![DominoMF](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/DominoMF.png)
 ## Dominoes falling forever!
 
+# [FlyingTurd]
+![Flyingturd](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Flyingturd.png)
+## Rob Delaney as “Peter” from Deadpool 2, in ASCII GIF form.
+
 # [Galaga]
 ![Galaga](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Galaga.png)
 ## 3D animation inspired by the classic video game Galaga.
