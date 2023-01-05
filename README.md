@@ -30,6 +30,10 @@ Here are some animations made by me. Open to requests. Enjoy and please credit i
 ![Galaga](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Galaga.png)
 ## 3D animation inspired by the classic video game Galaga.
 
+# [Gatekeeper]
+![Gatekeeper](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Gatekeeper.png)
+## Looks like a druid. Looks like a grave. Looks like a Gatekeeper!
+
 # [Gridloop]
 ![Gridloop](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Gridloop.png)
 ## 3D animation of a wireframe grid.
@@ -45,6 +49,10 @@ Here are some animations made by me. Open to requests. Enjoy and please credit i
 # [Noodles]
 ![Noodles.png](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Noodles.png)
 ## "I'm Han Solo". Scene from the movie Blade Runner.
+
+# [Pacman]
+![Pacman.png](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Pacman.png)
+## Nom! Nom! Nom! Chomping hertz!
 
 # [Targetlocked]
 ![Targetlocked](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Targetlocked.png)
