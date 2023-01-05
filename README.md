@@ -46,9 +46,17 @@ Here are some animations made by me. Open to requests. Enjoy and please credit i
 ![Hacktheplanet](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Hacktheplanet.png)
 ## 'Hack the planet!' scene from the movie Hackers.
 
+# [Knock]
+![Knock](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Knock.png)
+## Mattis dovier noir animation.
+
 # [Lifehacker]
 ![Lifehacker](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Lifehacker.png)
 ## Stick figure animation of the perpetual 'Lifehacker'.
+
+# [Murder]
+![Murder](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Murder.png)
+## Mattis dovier noir animation.
 
 # [Noodles]
 ![Noodles](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Noodles.png)
@@ -61,6 +69,14 @@ Here are some animations made by me. Open to requests. Enjoy and please credit i
 # [Peter]
 ![Peter](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Peter.png)
 ## Rob Delaney Peter GIF.
+
+# [Pistol]
+![Pistol](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Pistol.png)
+## Mattis dovier noir animation.
+
+# [Tapped]
+![Tapped](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Tapped.png)
+## Mattis dovier noir animation.
 
 # [Targetlocked]
 ![Targetlocked](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Targetlocked.png)
