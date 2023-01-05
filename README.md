@@ -47,12 +47,16 @@ Here are some animations made by me. Open to requests. Enjoy and please credit i
 ## Stick figure animation of the perpetual 'Lifehacker'.
 
 # [Noodles]
-![Noodles.png](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Noodles.png)
+![Noodles](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Noodles.png)
 ## "I'm Han Solo". Scene from the movie Blade Runner.
 
 # [Pacman]
 ![Pacman.png](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Pacman.png)
 ## Nom! Nom! Nom! Chomping hertz!
+
+# [Peter]
+![Peter](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Peter.png)
+## Rob Delaney Peter GIF.
 
 # [Targetlocked]
 ![Targetlocked](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Targetlocked.png)
