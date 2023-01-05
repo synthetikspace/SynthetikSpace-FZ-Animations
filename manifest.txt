@@ -92,21 +92,7 @@ Min level: 1
 Max level: 3
 Weight: 8
 
-Name: Lonelycity
-Min butthurt: 0
-Max butthurt: 10
-Min level: 1
-Max level: 3
-Weight: 8
-
 Name: Gatekeeper
-Min butthurt: 0
-Max butthurt: 10
-Min level: 1
-Max level: 3
-Weight: 8
-
-Name: Burnbabyburn
 Min butthurt: 0
 Max butthurt: 10
 Min level: 1
@@ -128,6 +114,41 @@ Max level: 3
 Weight: 8
 
 Name: ElAzor
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Murder
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Tapped
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Pistol
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Knock
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Android
 Min butthurt: 0
 Max butthurt: 10
 Min level: 1
