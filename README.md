@@ -14,6 +14,14 @@ Here are some animations made by me. Open to requests. Enjoy and please credit i
 ![Atari](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Atari.png)
 ## Short animation of the 80's Atari logo.
 
+# [Bounce.com]
+![Bounce.com](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Bouncedotcom.png)
+## Short animation of a bouncing 90's desktop computer.
+
+# [DominoMF]
+![DominoMF](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/DominoMF.png)
+## Dominoes falling forever!
+
 # [Galaga]
 ![Galaga](https://github.com/synthetikspace/FlipperzeroAnimations/blob/main/Thumbnails/Galaga.png)
 ## 3D animation inspired by the classic video game Galaga.
