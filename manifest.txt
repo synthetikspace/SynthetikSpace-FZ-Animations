@@ -77,3 +77,31 @@ Max butthurt: 10
 Min level: 1
 Max level: 3
 Weight: 8
+
+Name: DominoMF
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Bounce.com
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Gatekeeper
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Flyingturd
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 8
